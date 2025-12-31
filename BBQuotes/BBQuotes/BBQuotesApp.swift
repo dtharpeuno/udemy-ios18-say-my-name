@@ -15,3 +15,15 @@ struct BBQuotesApp: App {
         }
     }
 }
+
+
+/**
+ Version 2 List
+ 
+ Add El Camino Tab - done
+ Utilize all character images on CharacterView - done
+ Add auto scroll to bottom for status - done
+ Fetch episode data - done
+ Extend String to get rid of long mage - done
+ Create static constants for show names - done
+ */
